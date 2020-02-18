@@ -1,1 +1,1 @@
-# cv
+# cv (online course exercise)
